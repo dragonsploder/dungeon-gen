@@ -28,14 +28,14 @@ def print_surrounding_grid(array_2d, size):
     for i in range(rows):
         for j in range(cols):
             print("{:02}".format(i) + "{:02}".format(j), end="")
-            for x in range(size - 1,-1,-1):
-                for y in range(size - 1,-1,-1):
-                    if x == 0 and y == 0:
+            for y in range(-2,1):
+                for x in range(-2,2):
+                    if y == 0 and x == 0:
                         break
-                    elif i - x < 0 or j - y < 0:
+                    elif i + y < 0 or j + x < 0 or i + y >= rows or j + x >= cols:
                         print(' ', end="")
                     else:
-                        print(array_2d[i - x][j - y], end="")
+                        print(array_2d[i + y][j + x], end="")
             print("}" + array_2d[i][j])
 
 

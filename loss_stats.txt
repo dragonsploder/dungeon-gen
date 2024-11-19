@@ -1,0 +1,13 @@
+Loss: 0.18793433904647827 Trainings:100000 Batch:100 Hidden:40 Embed:30
+Loss: 0.12494121491909027 Trainings:100000 Batch:100 Hidden:20 Embed:20
+Loss: 0.15067514777183533 Trainings:100000 Batch:100 Hidden:20 Embed:10
+Loss: 0.033279016613960266 Trainings:100000 Batch:100 Hidden:50 Embed:50
+Loss: 0.05856853350996971 Trainings:500000 Batch:100 Hidden:30 Embed:30
+Loss: 0.07343875616788864 Trainings:500000 Batch:100 Hidden:50 Embed:50
+Loss: 0.3202762007713318 Trainings:10000 Batch:500 Hidden:50 Embed:50
+Loss: 0.2250199019908905 Trainings:20000 Batch:500 Hidden:50 Embed:50
+Loss: 0.17148363590240479 Trainings:40000 Batch:200 Hidden:50 Embed:50
+Loss: 0.2437654435634613 Trainings:100000 Batch:200 Hidden:50 Embed:45
+Loss: 0.13570179045200348 Trainings:100000 Batch:100 Hidden:40 Embed:35
+Loss: 0.023387199267745018 Trainings:500000 Batch:100 Hidden:40 Embed:35
+Loss: 0.15433770418167114 Trainings:500000 Batch:100 Hidden:40 Embed:25
