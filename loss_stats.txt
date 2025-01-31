@@ -11,3 +11,4 @@ Loss: 0.2437654435634613 Trainings:100000 Batch:200 Hidden:50 Embed:45
 Loss: 0.13570179045200348 Trainings:100000 Batch:100 Hidden:40 Embed:35
 Loss: 0.023387199267745018 Trainings:500000 Batch:100 Hidden:40 Embed:35
 Loss: 0.15433770418167114 Trainings:500000 Batch:100 Hidden:40 Embed:25
+Loss: 0.14619103074073792 Trainings:500000 Batch:100 Hidden:40 Embed:25
